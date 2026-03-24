@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Marco Machado
 
-**`Full Stack Developer | AWS Certified Cloud Practitioner`**
+**`Cloud Developer | AWS Certified Cloud Practitioner`**
 
 I am a Full Stack Developer and AWS Certified Cloud Practitioner dedicated to building and deploying robust, scalable applications. My expertise spans across developing responsive interfaces with HTML5, CSS3, and JavaScript, while crafting efficient back-end logic and system integrations using Python.
 
