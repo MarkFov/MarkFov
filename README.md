@@ -95,14 +95,4 @@ I am a Full Stack Developer and AWS Certified Cloud Practitioner dedicated to bu
 <br/>
 
 
-### 📊 Estatísticas
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkFov&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
